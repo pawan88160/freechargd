@@ -1,0 +1,203 @@
+[
+    {
+        "head":"Payments",
+        "body":[
+                    {
+                        "name":"Mobile Recharge",
+                        "cashback":"Flat ₹10 CB",
+                        "img":"image/mobile_2.png"
+                    },
+                    {
+                        "name":"Mobile Postpaid",
+                        "cashback":"Upto ₹30 CB",
+                        "img":"image/postpaid_2.png"
+                    },
+                    {
+                        "name":"Rent via Credit Card",
+                        "cashback":"",
+                        "img":"image/rentals_2.png"
+                    },
+                    {
+                        "name":"Electricity",
+                        "cashback":"Flat ₹40 CB",
+                        "img":"image/electricity_2.png"
+                    },
+                    {
+                        "name":"dth_2",
+                        "cashback":"Upto Rs.20 CB",
+                        "img":"image/dth_2.png"
+                    },
+                    {
+                        "name":"FASTag Recharge",
+                        "cashback":"",
+                        "img":"image/fastag_2.png"
+                    },
+                    {
+                        "name":"Book a Cylinder",
+                        "cashback":"",
+                        "img":"image/cylinder-booking_2.png"
+                    },
+                    {
+                        "name":"Landline",
+                        "cashback":"",
+                        "img":"image/landline_2.png"
+                    },
+                    {
+                        "name":"Gas",
+                        "cashback":"",
+                        "img":"image/gas_2.png"
+                    },
+                    {
+                        "name":"More",
+                        "cashback":"",
+                        "img":""
+                    },
+                    {
+                        "name":"Pay Credit Card Bill",
+                        "cashback":"",
+                        "img":"image/cc_2.png"
+                    },
+                    {
+                        "name":"Water",
+                        "cashback":"",
+                        "img":"image/water_2.png"
+                    },
+                    {
+                        "name":"Broadband",
+                        "cashback":"",
+                        "img":"image/broadband_2.png"
+                    },
+                    {
+                        "name":"OTT/Subscriptions",
+                        "cashback":"",
+                        "img":"image/subscription_2.png"
+                    },
+                    {
+                        "name":"Loan Repayment",
+                        "cashback":"",
+                        "img":"image/loan-payment_2.png"
+                    },
+                    {
+                        "name":"Google Play",
+                        "cashback":"",
+                        "img":"image/google_play_2.png"
+                    },
+                    {
+                        "name":"Insurance",
+                        "cashback":"",
+                        "img":"image/insurance_2.png"
+                    },
+                    {
+                        "name":"Municipal Tax",
+                        "cashback":"",
+                        "img":"image/municipal_2.png"
+                    },
+                    {
+                        "name":"Apartments",
+                        "cashback":"",
+                        "img":"image/housing-society_2.png"
+                    },
+                    {
+                        "name":"Cable TV",
+                        "cashback":"",
+                        "img":"image/cable-tv-recharge_2.png"
+                    },
+                    {
+                        "name":"Education Fees",
+                        "cashback":"",
+                        "img":"image/education-fees_2.png"
+                    },
+                    {
+                        "name":"Less",
+                        "cashback":"",
+                        "img":""
+                    }
+                    
+                ]
+    },
+    {
+        "head":"Investments & Loans",
+        "body":[
+                    {
+                        "name":"Pay Later",
+                        "cashback":"Get instant interest-free credit",
+                        "img":"image/pay-later.png",
+                        "btn":"Apply Now"
+                    },
+                    {
+                        "name":"Free CIBIL Score",
+                        "cashback":"Check your credit history",
+                        "img":"image/credit-score.png",
+                        "btn":"Check Now"
+                    },
+                    {
+                        "name":"Credit Card",
+                        "cashback":"Instant Approval, Unlimited Cashback",
+                        "img":"image/vcc.png",
+                        "btn":"Apply Now"
+                    },
+                    {
+                        "name":"Mutual Funds",
+                        "cashback":"Kickstart your future",
+                        "img":"image/mutual-funds.png",
+                        "btn":"Invest Now"
+                    },
+                    {
+                        "name":"Gold",
+                        "cashback":"Pure, Safe, and Convenient",
+                        "img":"image/gold.png",
+                        "btn":"Invest Now"
+                    },
+                    {
+                        "name":"Axis Fixed Deposit",
+                        "cashback":"Risk-free investment",
+                        "img":"image/fixed-deposit.png",
+                        "btn":"Start Saving"
+                    }
+                ]
+    },
+    {
+        "head":"Shopping",
+        "body":[
+                    {
+                        "name":"Cashback Store",
+                        "cashback":"",
+                        "img":"image/3318_1618402905022.png",
+                        "btn":""
+                    },
+                    {
+                        "name":"Amazon",
+                        "img":"image/3318_1618402980461.png"
+                    }
+                ]
+    },
+    {
+        "head":"Spotlight",
+        "body":[
+                   "image/pl.png",
+                   "image/DTH_Spotlight_441x552px.png",
+                   "image/zepto_Spotlight_441-x-552-px.png",
+                   "image/Max_Spotlight.png"
+                ]
+    },
+    {
+        "head":"Exclusive Deals",
+        "body":[
+                   "image/3318_1636637148155.png",
+                   "image/6759_1655291659924.png",
+                   "image/3318_1639480405636.png",
+                   "image/6701_1660645940503.png",
+                   "View All"
+                ]
+    },
+    {
+        "head":"Featured",
+        "body":[
+                   "image/EQUITYFUND.png",
+                   "image/fc10Featured-New-Guideline_1020x.png",
+                   "image/Electricity_Featured-New-Guideli.png",
+                   "image/amazonfeaturecard.png"
+                ]
+    }
+    
+]
